@@ -14,7 +14,7 @@
 
 
 ##  ℹ️```Bot Intro```ℹ️
-[![STAR-MD-V2](https://i.imgur.com/FSEN4pE.jpeg)](https://wa.me/2347045035241)
+[![STAR-MD-V2](https://telegra.ph/file/90db75d05675c7fae7dd0.jpg)](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
 </p>
       <p align="center">
   <a href="https://wa.me//+2347045035241" target="_blank">
@@ -38,7 +38,7 @@
   </a>
 
 
-<h1 align="center"> 🫶𝗦𝗧𝗔𝗥-𝗠𝗗-𝗩𝟮🫶
+<h1 align="center"> 🛰𝖲𝖳𝖠𝖱-𝖬𝖣-𝖵𝟤🛰
 </p>
    
 ### ℹ️ **ABOUT STAR-MD-V2**
@@ -57,7 +57,7 @@ If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appre
 href="https://www.opensourceagenda.com/projects/star-md-v2"><img src="https://www.opensourceagenda.com/projects/star-md-v2/reviews/badge.svg" alt="Open Source Agenda"></a> 
 
 
-🛟𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒🛟
+📡ＦＥＡＴＵＲＥＳ📡
 
 ◉ Multi-Device Support  
 ◉ AI Photo Enhancement  
@@ -95,7 +95,7 @@ href="https://www.opensourceagenda.com/projects/star-md-v2"><img src="https://ww
 ```✪SCAN-QR```  
 
 
-<a href="https://star-v2-qr-2ada4eff2d9d.herokuapp.com/" target="_blank">
+<a href="https://star-version-2-qr-c5ac6d849edc.herokuapp.com/" target="_blank">
   <img src="https://img.shields.io/badge/SCAN QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
@@ -109,7 +109,7 @@ href="https://www.opensourceagenda.com/projects/star-md-v2"><img src="https://ww
 
 
 
-## 🎈 `Deployments`🎈
+## ⚔️ `Deployments`⚔️
 #### DEPLOY TO HEROKU 
 
 ☉ If You don't have a account in Heroku. Create a account.
